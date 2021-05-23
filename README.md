@@ -1,4 +1,4 @@
-# Project 24
+# Project 25
 Crumpled Paper Ball
 
-https://darkangel007-hacker.github.io/Project_24/
+https://007chanak.github.io/Project_24/
